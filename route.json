@@ -1,0 +1,2230 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJKesG37ELkEcRANsWJWqGPGk",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJX0DvWwGimkcR-6BQYbxKcj8",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 47.432392,
+               "lng" : 8.6868266
+            },
+            "southwest" : {
+               "lat" : 47.3656592,
+               "lng" : 8.488042199999999
+            }
+         },
+         "copyrights" : "Map data ©2017 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "11:33am",
+                  "time_zone" : "Europe/Zurich",
+                  "value" : 1509010409
+               },
+               "departure_time" : {
+                  "text" : "10:43am",
+                  "time_zone" : "Europe/Zurich",
+                  "value" : 1509007435
+               },
+               "distance" : {
+                  "text" : "24.7 km",
+                  "value" : 24664
+               },
+               "duration" : {
+                  "text" : "50 mins",
+                  "value" : 2974
+               },
+               "end_address" : "Zürcherstrasse, 8317 Lindau, Switzerland",
+               "end_location" : {
+                  "lat" : 47.4317085,
+                  "lng" : 8.6637249
+               },
+               "start_address" : "Am Giessen, 8049 Zürich, Switzerland",
+               "start_location" : {
+                  "lat" : 47.3998083,
+                  "lng" : 8.4943635
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 47.4000036,
+                        "lng" : 8.494702900000002
+                     },
+                     "html_instructions" : "Walk to Winzerhalde",
+                     "polyline" : {
+                        "points" : "ywh`Hw`zr@C?CCCCC?C@EFEDC@C@AAABEHABA@A?GENq@DMB["
+                     },
+                     "start_location" : {
+                        "lat" : 47.3998083,
+                        "lng" : 8.4943635
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "43 m",
+                              "value" : 43
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 46
+                           },
+                           "end_location" : {
+                              "lat" : 47.4001349,
+                              "lng" : 8.4942426
+                           },
+                           "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eWinzerstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "ywh`Hw`zr@C?CCCCC?C@EFEDC@C@AAABEHABA@A?GE"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3998083,
+                              "lng" : 8.4943635
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "27 m",
+                              "value" : 27
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 18
+                           },
+                           "end_location" : {
+                              "lat" : 47.4000036,
+                              "lng" : 8.494702900000002
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWinzerstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "yyh`H_`zr@Nq@DMB["
+                           },
+                           "start_location" : {
+                              "lat" : 47.4001349,
+                              "lng" : 8.4942426
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1468
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 198
+                     },
+                     "end_location" : {
+                        "lat" : 47.3910767,
+                        "lng" : 8.4880464
+                     },
+                     "html_instructions" : "Bus towards Zürich, Triemlispital",
+                     "polyline" : {
+                        "points" : "_yh`H{bzr@CAZgAT{@ZZvD`Ab@JfAZLBnW~GzCz@bHjBbG~ACT{AfIC\\AR@NDLJNL?VAL@FBXFSbAc@~BCPY|AAFC?"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4000036,
+                        "lng" : 8.494702900000002
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.3910767,
+                              "lng" : 8.4880464
+                           },
+                           "name" : "Bahnhof Altstetten"
+                        },
+                        "arrival_time" : {
+                           "text" : "10:48am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509007698
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.4000036,
+                              "lng" : 8.494702900000002
+                           },
+                           "name" : "Winzerhalde"
+                        },
+                        "departure_time" : {
+                           "text" : "10:45am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509007500
+                        },
+                        "headsign" : "Zürich, Triemlispital",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Zürcher Verkehrsverbund",
+                                 "phone" : "011 41 848 988 988",
+                                 "url" : "http://www.zvv.ch/"
+                              }
+                           ],
+                           "color" : "#c5e1a5",
+                           "short_name" : "80",
+                           "text_color" : "#000000",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 2
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 47.391481,
+                        "lng" : 8.488939999999999
+                     },
+                     "html_instructions" : "Walk to Zürich Altstetten",
+                     "polyline" : {
+                        "points" : "gag`Hiyxr@@@`@yBgAe@?ABKo@E"
+                     },
+                     "start_location" : {
+                        "lat" : 47.3910767,
+                        "lng" : 8.4880464
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "49 m",
+                              "value" : 49
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 36
+                           },
+                           "end_location" : {
+                              "lat" : 47.3909041,
+                              "lng" : 8.4886482
+                           },
+                           "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eHohlstrasse\u003c/b\u003e toward \u003cb\u003eBristenstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "gag`Hiyxr@@@`@yB"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3910767,
+                              "lng" : 8.4880464
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "42 m",
+                              "value" : 42
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 32
+                           },
+                           "end_location" : {
+                              "lat" : 47.3912609,
+                              "lng" : 8.4888467
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eBristenstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "c`g`Ha}xr@gAe@?A"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3909041,
+                              "lng" : 8.4886482
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "5 m",
+                              "value" : 5
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 3
+                           },
+                           "end_location" : {
+                              "lat" : 47.391481,
+                              "lng" : 8.488939999999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAltstetterpl.\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "kbg`Hi~xr@BKo@E"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3912609,
+                              "lng" : 8.4888467
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "20.1 km",
+                        "value" : 20134
+                     },
+                     "duration" : {
+                        "text" : "25 mins",
+                        "value" : 1500
+                     },
+                     "end_location" : {
+                        "lat" : 47.425811,
+                        "lng" : 8.686662000000002
+                     },
+                     "html_instructions" : "Commuter train towards Wetzikon",
+                     "polyline" : {
+                        "points" : "wcg`H{~xr@SK@If@uC`@}BZaBPaANiAFk@Ho@Ja@XmBHa@Hg@PiATeBXuBH_AHaAJcADq@FaAFy@Bq@HwAF{A?IDcAF{ABe@B[FiAF}@JmALcAJcALaAT{AlAiIDa@BURoBDk@Dq@HoAJgBHgAFiAHqALuAHaAPqALaALy@RcAReAJc@H]`@{ARy@^oAb@}A^uA`@sA\\qA`@yA^qAd@qB`@eBVsAZ_BZeB`@yBVyA\\oBX}ALu@\\mBRoAL{@HaAJeANwAFi@Fi@RiAZmB\\sBj@eDX}AX{AZyAVeAVaA\\kA`@mAb@oAZw@h@mAd@gAXm@Rg@N]La@Rq@F[FSFYFYFY?G@ADWFa@@I@IJ{@NwANoALkALcAN}@VwARkABKx@}EpB{LpAoH^{BnAaHz@aFP_Ap@_En@{C|@oDn@sBt@kBBEAIAGj@qAl@iAn@gAp@_At@aAx@w@v@y@z@m@~@i@`Aa@~Ai@dBU`AIdAGfA?`AB`AHdAP~@RbAX`AX~A^bBLjAIfAQt@OhAc@dAi@|@u@x@}@h@y@BCP]p@wA\\}@Tw@T}@LeARkBNgBNuCBoCBaGIcFQeF_@qE[cC]yAc@mA}EuJyDiHcI_NeJyOkCuEcIwNgGqKsDcGoBcDqG_L_MsTkAqBwAcCqC}EgB{CeDyFkIqNgEcGsBiCoCaD_D{CyCkCiD{BsD{BgDeB_MuEkNgEoDqAo@UoCeAo@Ym@[y@a@kAs@eAq@s@g@s@g@{@s@s@m@k@i@_@a@_@a@]c@a@g@c@q@Wa@S_@CES_@Sa@Q][s@CG[q@e@mAg@mAq@cBs@cBISISYs@wBmFM_@Si@M[a@gAm@qBWw@]oAk@oBU{@YeAQo@Ss@_@oAUu@Ws@a@mAc@oAQk@KYCG}A}DmAuCw@sAMSUYYc@Y_@W_@SU]e@]]YYYWYUa@_@o@e@o@_@_@Uc@U_@O_@O[M_@Ka@M]Gc@Ie@Ia@Gk@Ga@Eq@E{AKw@Ic@Ge@IUEe@Ke@Oi@Oa@Qc@Qs@]_Ag@q@a@[QMK?AYKYMQIo@YYMm@]g@YECeAi@i@Y_Bk@SIm@WmAm@{@_@yBeAuAo@UKWKMGa@Su@_@uCsAWKSKwAs@i@]}@o@[Uu@o@q@s@WYa@c@{@aAOQOSa@k@gAeBk@gA{@eBGMGOg@qAGM_@cA]iA_@qAYiAEQi@eCEUQiAUyAUmBMiAAOGw@IqAGsAE}@CeBCoB?k@?U?]BmBDaBFoANaCv@{KDg@De@FaAb@iGx@eLh@sH^oFB]D]vIkkAd@aGh@}GbBmUR_D\\kE\\uEPkCz@{Kx@{KpBcXV{CLeBRgCHaBHwB@qA@uA?_BC}@EmAEkAOmBSsBMgAc@gCy@_Ei@eBc@mAg@qAoAqC}@}AmAaBcAmA}@{@y@s@mAy@sAw@eAe@gBy@G`@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.391481,
+                        "lng" : 8.488939999999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.425811,
+                              "lng" : 8.686662000000002
+                           },
+                           "name" : "Effretikon, Bahnhof"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:19am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509009540
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.391481,
+                              "lng" : 8.488939999999999
+                           },
+                           "name" : "Zürich Altstetten"
+                        },
+                        "departure_time" : {
+                           "text" : "10:54am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509008040
+                        },
+                        "headsign" : "Wetzikon",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Schweizerische Bundesbahnen SBB",
+                                 "url" : "http://sbb.ch/"
+                              }
+                           ],
+                           "color" : "#283593",
+                           "short_name" : "S3",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-train.png",
+                              "name" : "Commuter train",
+                              "type" : "COMMUTER_TRAIN"
+                           }
+                        },
+                        "num_stops" : 6
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 47.4254078,
+                        "lng" : 8.6862327
+                     },
+                     "html_instructions" : "Walk to Effretikon, Bahnhof",
+                     "polyline" : {
+                        "points" : "izm`Hsr_t@Hn@@DCTbA^BU"
+                     },
+                     "start_location" : {
+                        "lat" : 47.425811,
+                        "lng" : 8.686662000000002
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "50 m",
+                              "value" : 50
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 41
+                           },
+                           "end_location" : {
+                              "lat" : 47.4254078,
+                              "lng" : 8.6862327
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eBahnhofstrasse\u003c/b\u003e toward \u003cb\u003eBahnhofstrasse\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "polyline" : {
+                              "points" : "izm`Hsr_t@Hn@@DCTbA^BU"
+                           },
+                           "start_location" : {
+                              "lat" : 47.425811,
+                              "lng" : 8.686662000000002
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2477
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 360
+                     },
+                     "end_location" : {
+                        "lat" : 47.4313938,
+                        "lng" : 8.6678262
+                     },
+                     "html_instructions" : "Bus towards Kemptthal, Bahnhof",
+                     "polyline" : {
+                        "points" : "ywm`H}o_t@DQWMGRCTi@UaBo@s@QWG[GOAK?K@_@H]PYJSFSDK@YDE?S@o@?q@GSEIC?OCECEEAI?CDCDADAF@D@F@FAHs@fCkAlEOj@Wt@IXUn@WfAETEZEXCv@An@?N@XC@C@ABCDAF?F@HBDHFDA@\\?L@d@@^?f@AP?VEp@CVMbAU~@]x@GLOZ]j@[f@m@x@gA`Ba@p@QXEF]l@a@t@Ud@Yr@Ul@Y`AnCzHnBrFj@bBPf@Vr@f@~APt@T`ADPBP@NFd@@b@@f@?b@Cd@Cd@Gf@It@u@dFsC~Qc@QsAm@R{ARoAPmARqAPgAD@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4254078,
+                        "lng" : 8.6862327
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.4313938,
+                              "lng" : 8.6678262
+                           },
+                           "name" : "Tagelswangen, Gerenhalde"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:29am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509010140
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.4254078,
+                              "lng" : 8.6862327
+                           },
+                           "name" : "Effretikon, Bahnhof"
+                        },
+                        "departure_time" : {
+                           "text" : "11:23am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509009780
+                        },
+                        "headsign" : "Kemptthal, Bahnhof",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Zürcher Verkehrsverbund",
+                                 "phone" : "011 41 848 988 988",
+                                 "url" : "http://www.zvv.ch/"
+                              }
+                           ],
+                           "color" : "#ffffff",
+                           "short_name" : "650",
+                           "text_color" : "#000000",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 4
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 369
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 256
+                     },
+                     "end_location" : {
+                        "lat" : 47.4317085,
+                        "lng" : 8.6637249
+                     },
+                     "html_instructions" : "Walk to Zürcherstrasse, 8317 Lindau, Switzerland",
+                     "polyline" : {
+                        "points" : "e}n`H}|{s@KD_@rCIb@s@lEj@Rf@Vd@T[nB[xBOvAGd@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4313938,
+                        "lng" : 8.6678262
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 155
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 107
+                           },
+                           "end_location" : {
+                              "lat" : 47.4319236,
+                              "lng" : 8.665854299999999
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eGrundacherstrasse\u003c/b\u003e toward \u003cb\u003eBuckstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "e}n`H}|{s@KD_@rCIb@s@lE"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4313938,
+                              "lng" : 8.6678262
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "72 m",
+                              "value" : 72
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 48
+                           },
+                           "end_location" : {
+                              "lat" : 47.4313148,
+                              "lng" : 8.665522899999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eGrundacherstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "o`o`Hqp{s@j@Rf@Vd@T"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4319236,
+                              "lng" : 8.665854299999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 142
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 101
+                           },
+                           "end_location" : {
+                              "lat" : 47.4317085,
+                              "lng" : 8.6637249
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZürcherstrasse\u003c/b\u003e/\u003cb\u003eRoute 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "u|n`Hon{s@[nB[xBOvAGd@"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4313148,
+                              "lng" : 8.665522899999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ywh`Hw`zr@OGSPE?GLCDIET_A?]p@cCZZvD`AjBf@|WbH~LfDbG~ACT_BdJ?b@P\\d@ATDXFSbAg@pC[dBA@`@yBgAe@BMo@ESKh@_D|@_F`@kCP{Ax@yEf@oDb@uDb@yF\\_HPoE^qFXgCb@}CrAkJVeC`@uGh@yHZsCZ{B|@kExBcI`CuIdAcEx@yDpByKbBqJ`@kCTgCVaCZsB~BeNt@uDn@gC~@yC~@gC|BkF\\_AZmA^aBNcA^gD\\{C\\aChBmKbEkVnB}KlAaHp@_En@{C|@oDn@sBx@qBCQj@qA|AqCfBaCpBqBzBwA`Aa@~Ai@fD_@dAGfA?`AB`AHdAP~@RdCr@~A^bBLjAIfAQt@OhAc@dAi@|@u@x@}@h@y@Ta@nAuCj@uB`@qD^}FFqKIcFQeF_@qE[cC]yAc@mA}EuJyDiHiTy^oMmUgGqKsDcGaKcQkOeXiFaJmGuKkIqNgEcGsBiCoCaD_D{CyCkC}IwFgDeB_MuEkNgEoDqA_E{A}Au@eCuAyByAoB{A_BwA_AcA_AkAsAyBuAsCgFeMsDkJo@cBeAiDyBaI{AiFoB}FOa@kDsIeAgBo@}@cB{BkBeBqAeAoAu@cAe@{@]aAYaAQuC_@mCQ{AQ{@OkA[kAa@wAo@qBiAi@]eAe@iAg@uAw@kAm@i@Y_Bk@aAa@iCmA}FmC{FoCk@WaCqAyAeAgBcBeCqCq@_AsBmDcAsBo@aBg@qA}@{C_@{Ao@{Cg@cDc@wD[mFIcDC{C?s@HoEVqE|@cMjBwWrA_RjOyrB`BmU~Fwv@`@mFRyEBgDC}CKyCc@aFq@oEy@_Ei@eBkA_DoAqC}@}AqCoDwBoBmAy@sAw@mD_BG`@Hn@AZbA^BUDQWMKh@kCeAkAYk@IW@_@H]Pm@R_@F_@DcA@eAMIC?OGKOAGJCLBL@FAH_CtIg@`B_@hA]|AKt@EfB@h@GBEHANDNHFDA@j@BdAGbCQzAU~@]x@Wh@y@rAuBzCs@jAc@t@w@zAo@`BY`AnCzHzCvIh@zAx@tCZrAD`@HhA@jAGjAQ|AiEdYwB_Af@kDd@_DPgAD@KD_@rC}@pFj@Rf@Vd@T[nBk@pEGd@"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 47.432392,
+               "lng" : 8.6868266
+            },
+            "southwest" : {
+               "lat" : 47.3656592,
+               "lng" : 8.488798899999999
+            }
+         },
+         "copyrights" : "Map data ©2017 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "11:33am",
+                  "time_zone" : "Europe/Zurich",
+                  "value" : 1509010409
+               },
+               "departure_time" : {
+                  "text" : "10:46am",
+                  "time_zone" : "Europe/Zurich",
+                  "value" : 1509007579
+               },
+               "distance" : {
+                  "text" : "24.5 km",
+                  "value" : 24540
+               },
+               "duration" : {
+                  "text" : "47 mins",
+                  "value" : 2830
+               },
+               "end_address" : "Zürcherstrasse, 8317 Lindau, Switzerland",
+               "end_location" : {
+                  "lat" : 47.4317085,
+                  "lng" : 8.6637249
+               },
+               "start_address" : "Am Giessen, 8049 Zürich, Switzerland",
+               "start_location" : {
+                  "lat" : 47.3998083,
+                  "lng" : 8.4943635
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 47.4000036,
+                        "lng" : 8.494702900000002
+                     },
+                     "html_instructions" : "Walk to Winzerhalde",
+                     "polyline" : {
+                        "points" : "ywh`Hw`zr@C?CCCCC?C@EFEDC@C@AAABEHABA@A?GENq@DMB["
+                     },
+                     "start_location" : {
+                        "lat" : 47.3998083,
+                        "lng" : 8.4943635
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "43 m",
+                              "value" : 43
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 46
+                           },
+                           "end_location" : {
+                              "lat" : 47.4001349,
+                              "lng" : 8.4942426
+                           },
+                           "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eWinzerstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "ywh`Hw`zr@C?CCCCC?C@EFEDC@C@AAABEHABA@A?GE"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3998083,
+                              "lng" : 8.4943635
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "27 m",
+                              "value" : 27
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 18
+                           },
+                           "end_location" : {
+                              "lat" : 47.4000036,
+                              "lng" : 8.494702900000002
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWinzerstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "yyh`H_`zr@Nq@DMB["
+                           },
+                           "start_location" : {
+                              "lat" : 47.4001349,
+                              "lng" : 8.4942426
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1281
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 47.39242669999999,
+                        "lng" : 8.489690299999999
+                     },
+                     "html_instructions" : "Bus towards Zürich, Bahnhof Altstetten N",
+                     "polyline" : {
+                        "points" : "_yh`H{bzr@CAZgAT{@ZZvD`Ab@JfAZLBnW~GvDdA?RCJOzBa@lDq@jFCd@B^FTX`@fAvAPPTa@f@uCFSPHz@`@A@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4000036,
+                        "lng" : 8.494702900000002
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.39242669999999,
+                              "lng" : 8.489690299999999
+                           },
+                           "name" : "Bahnhof Altstetten N"
+                        },
+                        "arrival_time" : {
+                           "text" : "10:49am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509007794
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.4000036,
+                              "lng" : 8.494702900000002
+                           },
+                           "name" : "Winzerhalde"
+                        },
+                        "departure_time" : {
+                           "text" : "10:47am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509007644
+                        },
+                        "headsign" : "Zürich, Bahnhof Altstetten N",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Zürcher Verkehrsverbund",
+                                 "phone" : "011 41 848 988 988",
+                                 "url" : "http://www.zvv.ch/"
+                              }
+                           ],
+                           "color" : "#d50000",
+                           "short_name" : "304",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 2
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 118
+                     },
+                     "end_location" : {
+                        "lat" : 47.391481,
+                        "lng" : 8.488939999999999
+                     },
+                     "html_instructions" : "Walk to Zürich Altstetten",
+                     "polyline" : {
+                        "points" : "uig`Hqcyr@CL\\PJDHFHDJHDD@B?BBL@N@A@?hChAFIBKo@E"
+                     },
+                     "start_location" : {
+                        "lat" : 47.39242669999999,
+                        "lng" : 8.489690299999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "64 m",
+                              "value" : 64
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 50
+                           },
+                           "end_location" : {
+                              "lat" : 47.3920103,
+                              "lng" : 8.489155499999999
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "uig`Hqcyr@CL\\PJDHFHDJHDD@B?BBL@N"
+                           },
+                           "start_location" : {
+                              "lat" : 47.39242669999999,
+                              "lng" : 8.489690299999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 95
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 68
+                           },
+                           "end_location" : {
+                              "lat" : 47.391481,
+                              "lng" : 8.488939999999999
+                           },
+                           "html_instructions" : "Take the pedestrian tunnel",
+                           "polyline" : {
+                              "points" : "agg`Hg`yr@@A@?hChAFIBKo@E"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3920103,
+                              "lng" : 8.489155499999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "20.1 km",
+                        "value" : 20134
+                     },
+                     "duration" : {
+                        "text" : "25 mins",
+                        "value" : 1500
+                     },
+                     "end_location" : {
+                        "lat" : 47.425811,
+                        "lng" : 8.686662000000002
+                     },
+                     "html_instructions" : "Commuter train towards Wetzikon",
+                     "polyline" : {
+                        "points" : "wcg`H{~xr@SK@If@uC`@}BZaBPaANiAFk@Ho@Ja@XmBHa@Hg@PiATeBXuBH_AHaAJcADq@FaAFy@Bq@HwAF{A?IDcAF{ABe@B[FiAF}@JmALcAJcALaAT{AlAiIDa@BURoBDk@Dq@HoAJgBHgAFiAHqALuAHaAPqALaALy@RcAReAJc@H]`@{ARy@^oAb@}A^uA`@sA\\qA`@yA^qAd@qB`@eBVsAZ_BZeB`@yBVyA\\oBX}ALu@\\mBRoAL{@HaAJeANwAFi@Fi@RiAZmB\\sBj@eDX}AX{AZyAVeAVaA\\kA`@mAb@oAZw@h@mAd@gAXm@Rg@N]La@Rq@F[FSFYFYFY?G@ADWFa@@I@IJ{@NwANoALkALcAN}@VwARkABKx@}EpB{LpAoH^{BnAaHz@aFP_Ap@_En@{C|@oDn@sBt@kBBEAIAGj@qAl@iAn@gAp@_At@aAx@w@v@y@z@m@~@i@`Aa@~Ai@dBU`AIdAGfA?`AB`AHdAP~@RbAX`AX~A^bBLjAIfAQt@OhAc@dAi@|@u@x@}@h@y@BCP]p@wA\\}@Tw@T}@LeARkBNgBNuCBoCBaGIcFQeF_@qE[cC]yAc@mA}EuJyDiHcI_NeJyOkCuEcIwNgGqKsDcGoBcDqG_L_MsTkAqBwAcCqC}EgB{CeDyFkIqNgEcGsBiCoCaD_D{CyCkCiD{BsD{BgDeB_MuEkNgEoDqAo@UoCeAo@Ym@[y@a@kAs@eAq@s@g@s@g@{@s@s@m@k@i@_@a@_@a@]c@a@g@c@q@Wa@S_@CES_@Sa@Q][s@CG[q@e@mAg@mAq@cBs@cBISISYs@wBmFM_@Si@M[a@gAm@qBWw@]oAk@oBU{@YeAQo@Ss@_@oAUu@Ws@a@mAc@oAQk@KYCG}A}DmAuCw@sAMSUYYc@Y_@W_@SU]e@]]YYYWYUa@_@o@e@o@_@_@Uc@U_@O_@O[M_@Ka@M]Gc@Ie@Ia@Gk@Ga@Eq@E{AKw@Ic@Ge@IUEe@Ke@Oi@Oa@Qc@Qs@]_Ag@q@a@[QMK?AYKYMQIo@YYMm@]g@YECeAi@i@Y_Bk@SIm@WmAm@{@_@yBeAuAo@UKWKMGa@Su@_@uCsAWKSKwAs@i@]}@o@[Uu@o@q@s@WYa@c@{@aAOQOSa@k@gAeBk@gA{@eBGMGOg@qAGM_@cA]iA_@qAYiAEQi@eCEUQiAUyAUmBMiAAOGw@IqAGsAE}@CeBCoB?k@?U?]BmBDaBFoANaCv@{KDg@De@FaAb@iGx@eLh@sH^oFB]D]vIkkAd@aGh@}GbBmUR_D\\kE\\uEPkCz@{Kx@{KpBcXV{CLeBRgCHaBHwB@qA@uA?_BC}@EmAEkAOmBSsBMgAc@gCy@_Ei@eBc@mAg@qAoAqC}@}AmAaBcAmA}@{@y@s@mAy@sAw@eAe@gBy@G`@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.391481,
+                        "lng" : 8.488939999999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.425811,
+                              "lng" : 8.686662000000002
+                           },
+                           "name" : "Effretikon, Bahnhof"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:19am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509009540
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.391481,
+                              "lng" : 8.488939999999999
+                           },
+                           "name" : "Zürich Altstetten"
+                        },
+                        "departure_time" : {
+                           "text" : "10:54am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509008040
+                        },
+                        "headsign" : "Wetzikon",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Schweizerische Bundesbahnen SBB",
+                                 "url" : "http://sbb.ch/"
+                              }
+                           ],
+                           "color" : "#283593",
+                           "short_name" : "S3",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-train.png",
+                              "name" : "Commuter train",
+                              "type" : "COMMUTER_TRAIN"
+                           }
+                        },
+                        "num_stops" : 6
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 47.4254078,
+                        "lng" : 8.6862327
+                     },
+                     "html_instructions" : "Walk to Effretikon, Bahnhof",
+                     "polyline" : {
+                        "points" : "izm`Hsr_t@Hn@@DCTbA^BU"
+                     },
+                     "start_location" : {
+                        "lat" : 47.425811,
+                        "lng" : 8.686662000000002
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "50 m",
+                              "value" : 50
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 41
+                           },
+                           "end_location" : {
+                              "lat" : 47.4254078,
+                              "lng" : 8.6862327
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eBahnhofstrasse\u003c/b\u003e toward \u003cb\u003eBahnhofstrasse\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "polyline" : {
+                              "points" : "izm`Hsr_t@Hn@@DCTbA^BU"
+                           },
+                           "start_location" : {
+                              "lat" : 47.425811,
+                              "lng" : 8.686662000000002
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2477
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 360
+                     },
+                     "end_location" : {
+                        "lat" : 47.4313938,
+                        "lng" : 8.6678262
+                     },
+                     "html_instructions" : "Bus towards Kemptthal, Bahnhof",
+                     "polyline" : {
+                        "points" : "ywm`H}o_t@DQWMGRCTi@UaBo@s@QWG[GOAK?K@_@H]PYJSFSDK@YDE?S@o@?q@GSEIC?OCECEEAI?CDCDADAF@D@F@FAHs@fCkAlEOj@Wt@IXUn@WfAETEZEXCv@An@?N@XC@C@ABCDAF?F@HBDHFDA@\\?L@d@@^?f@AP?VEp@CVMbAU~@]x@GLOZ]j@[f@m@x@gA`Ba@p@QXEF]l@a@t@Ud@Yr@Ul@Y`AnCzHnBrFj@bBPf@Vr@f@~APt@T`ADPBP@NFd@@b@@f@?b@Cd@Cd@Gf@It@u@dFsC~Qc@QsAm@R{ARoAPmARqAPgAD@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4254078,
+                        "lng" : 8.6862327
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.4313938,
+                              "lng" : 8.6678262
+                           },
+                           "name" : "Tagelswangen, Gerenhalde"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:29am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509010140
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.4254078,
+                              "lng" : 8.6862327
+                           },
+                           "name" : "Effretikon, Bahnhof"
+                        },
+                        "departure_time" : {
+                           "text" : "11:23am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509009780
+                        },
+                        "headsign" : "Kemptthal, Bahnhof",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Zürcher Verkehrsverbund",
+                                 "phone" : "011 41 848 988 988",
+                                 "url" : "http://www.zvv.ch/"
+                              }
+                           ],
+                           "color" : "#ffffff",
+                           "short_name" : "650",
+                           "text_color" : "#000000",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 4
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 369
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 256
+                     },
+                     "end_location" : {
+                        "lat" : 47.4317085,
+                        "lng" : 8.6637249
+                     },
+                     "html_instructions" : "Walk to Zürcherstrasse, 8317 Lindau, Switzerland",
+                     "polyline" : {
+                        "points" : "e}n`H}|{s@KD_@rCIb@s@lEj@Rf@Vd@T[nB[xBOvAGd@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4313938,
+                        "lng" : 8.6678262
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 155
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 107
+                           },
+                           "end_location" : {
+                              "lat" : 47.4319236,
+                              "lng" : 8.665854299999999
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eGrundacherstrasse\u003c/b\u003e toward \u003cb\u003eBuckstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "e}n`H}|{s@KD_@rCIb@s@lE"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4313938,
+                              "lng" : 8.6678262
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "72 m",
+                              "value" : 72
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 48
+                           },
+                           "end_location" : {
+                              "lat" : 47.4313148,
+                              "lng" : 8.665522899999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eGrundacherstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "o`o`Hqp{s@j@Rf@Vd@T"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4319236,
+                              "lng" : 8.665854299999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 142
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 101
+                           },
+                           "end_location" : {
+                              "lat" : 47.4317085,
+                              "lng" : 8.6637249
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZürcherstrasse\u003c/b\u003e/\u003cb\u003eRoute 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "u|n`Hon{s@[nB[xBOvAGd@"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4313148,
+                              "lng" : 8.665522899999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ywh`Hw`zr@OGSPE?GLCDIET_A?]p@cCZZvD`AjBf@|WbHvDdA?RSfCsAxKCd@B^FTX`@xAhBTa@f@uCFSPHx@b@CL\\PTLTNFHBPBL@?hChAJUo@ESKh@_D|@_F`@kCP{Ad@oCz@yFb@uDTeCX_Fn@iNRkCXgCvBiOb@cFf@iIVgDZsCZ{Bf@iCjAwEdCwI~@kDdAcEx@yDv@eEpBaLj@cD`@kCl@iGZsBx@aFdAcGt@uDn@gC~@yC~@gCnAuCjAuCj@{BP}@PmAx@oH\\aCj@cD`Gu]|D_Up@_En@{C|@oDn@sBx@qBCQj@qA|AqCfBaCpBqBzBwA`Aa@~Ai@fD_@dAGfA?`AB`AHdAP~@RdCr@~A^bBLjAIfAQt@OhAc@dAi@|@u@x@}@h@y@Ta@nAuCj@uB`@qD^}FFqKIcFQeF_@qE[cC]yAc@mA}EuJyDiHiTy^oMmUgGqKsDcGaKcQuVgc@mGuKkIqNgEcGsBiCoCaD_D{CyCkC}IwFgDeB_MuEkNgEoDqA_E{A}Au@eCuAyByAoB{A_BwA_AcA_AkA{@sA_AgBmAkCsDcJeDiIqAmDoCiJuAeFoBgGeA}CkDsIeAgBaB}Bq@{@w@w@s@m@qAeAoAu@cAe@{@]aAYaAQgAQ{E_@{AQ{@OkA[kAa@wAo@qBiAi@]YMuB_AaDeBi@Y_Bk@aAa@yIcEuI_EaCqAyAeAgBcBy@}@kAsAq@_AsBmDcAsBwAsD}@{C_@{Ao@{Cg@cDc@wDIgAQeDIcDCoEHoEVqEjAkPfDse@fKiuA~Dwi@dDyc@jDmd@RyEBgDC}CKyCc@aFq@oEy@_Ei@eBkA_DoAqC}@}AqCoDwBoBmAy@sAw@mD_BG`@Hn@AZbA^BUDQWMKh@kCeAkAYk@IW@_@H]Pm@R_ALcA@eAMIC?OGKOAGJCLBL@FAH_CtIgAjD]|AKt@EfB@h@GBEHANDNHFDA@j@@~BEhAQzAU~@]x@Wh@y@rAuBzCwA`Cw@zAo@`BY`AnCzHzCvIh@zAx@tCZrAD`@HhA@jAGjAQ|AiEdYwB_AlAkIPgAD@KD_@rC}@pFj@Rf@Vd@T[nBk@pEGd@"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 47.432392,
+               "lng" : 8.6868266
+            },
+            "southwest" : {
+               "lat" : 47.3656592,
+               "lng" : 8.488798899999999
+            }
+         },
+         "copyrights" : "Map data ©2017 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "12:03pm",
+                  "time_zone" : "Europe/Zurich",
+                  "value" : 1509012209
+               },
+               "departure_time" : {
+                  "text" : "11:16am",
+                  "time_zone" : "Europe/Zurich",
+                  "value" : 1509009379
+               },
+               "distance" : {
+                  "text" : "24.5 km",
+                  "value" : 24540
+               },
+               "duration" : {
+                  "text" : "47 mins",
+                  "value" : 2830
+               },
+               "end_address" : "Zürcherstrasse, 8317 Lindau, Switzerland",
+               "end_location" : {
+                  "lat" : 47.4317085,
+                  "lng" : 8.6637249
+               },
+               "start_address" : "Am Giessen, 8049 Zürich, Switzerland",
+               "start_location" : {
+                  "lat" : 47.3998083,
+                  "lng" : 8.4943635
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 47.4000036,
+                        "lng" : 8.494702900000002
+                     },
+                     "html_instructions" : "Walk to Winzerhalde",
+                     "polyline" : {
+                        "points" : "ywh`Hw`zr@C?CCCCC?C@EFEDC@C@AAABEHABA@A?GENq@DMB["
+                     },
+                     "start_location" : {
+                        "lat" : 47.3998083,
+                        "lng" : 8.4943635
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "43 m",
+                              "value" : 43
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 46
+                           },
+                           "end_location" : {
+                              "lat" : 47.4001349,
+                              "lng" : 8.4942426
+                           },
+                           "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eWinzerstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "ywh`Hw`zr@C?CCCCC?C@EFEDC@C@AAABEHABA@A?GE"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3998083,
+                              "lng" : 8.4943635
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "27 m",
+                              "value" : 27
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 18
+                           },
+                           "end_location" : {
+                              "lat" : 47.4000036,
+                              "lng" : 8.494702900000002
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWinzerstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "yyh`H_`zr@Nq@DMB["
+                           },
+                           "start_location" : {
+                              "lat" : 47.4001349,
+                              "lng" : 8.4942426
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1281
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 47.39242669999999,
+                        "lng" : 8.489690299999999
+                     },
+                     "html_instructions" : "Bus towards Zürich, Bahnhof Altstetten N",
+                     "polyline" : {
+                        "points" : "_yh`H{bzr@CAZgAT{@ZZvD`Ab@JfAZLBnW~GvDdA?RCJOzBa@lDq@jFCd@B^FTX`@fAvAPPTa@f@uCFSPHz@`@A@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4000036,
+                        "lng" : 8.494702900000002
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.39242669999999,
+                              "lng" : 8.489690299999999
+                           },
+                           "name" : "Bahnhof Altstetten N"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:19am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509009594
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.4000036,
+                              "lng" : 8.494702900000002
+                           },
+                           "name" : "Winzerhalde"
+                        },
+                        "departure_time" : {
+                           "text" : "11:17am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509009444
+                        },
+                        "headsign" : "Zürich, Bahnhof Altstetten N",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Zürcher Verkehrsverbund",
+                                 "phone" : "011 41 848 988 988",
+                                 "url" : "http://www.zvv.ch/"
+                              }
+                           ],
+                           "color" : "#d50000",
+                           "short_name" : "304",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 2
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 118
+                     },
+                     "end_location" : {
+                        "lat" : 47.391481,
+                        "lng" : 8.488939999999999
+                     },
+                     "html_instructions" : "Walk to Zürich Altstetten",
+                     "polyline" : {
+                        "points" : "uig`Hqcyr@CL\\PJDHFHDJHDD@B?BBL@N@A@?hChAFIBKo@E"
+                     },
+                     "start_location" : {
+                        "lat" : 47.39242669999999,
+                        "lng" : 8.489690299999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "64 m",
+                              "value" : 64
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 50
+                           },
+                           "end_location" : {
+                              "lat" : 47.3920103,
+                              "lng" : 8.489155499999999
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "uig`Hqcyr@CL\\PJDHFHDJHDD@B?BBL@N"
+                           },
+                           "start_location" : {
+                              "lat" : 47.39242669999999,
+                              "lng" : 8.489690299999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 95
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 68
+                           },
+                           "end_location" : {
+                              "lat" : 47.391481,
+                              "lng" : 8.488939999999999
+                           },
+                           "html_instructions" : "Take the pedestrian tunnel",
+                           "polyline" : {
+                              "points" : "agg`Hg`yr@@A@?hChAFIBKo@E"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3920103,
+                              "lng" : 8.489155499999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "20.1 km",
+                        "value" : 20134
+                     },
+                     "duration" : {
+                        "text" : "25 mins",
+                        "value" : 1500
+                     },
+                     "end_location" : {
+                        "lat" : 47.425811,
+                        "lng" : 8.686662000000002
+                     },
+                     "html_instructions" : "Commuter train towards Wetzikon",
+                     "polyline" : {
+                        "points" : "wcg`H{~xr@SK@If@uC`@}BZaBPaANiAFk@Ho@Ja@XmBHa@Hg@PiATeBXuBH_AHaAJcADq@FaAFy@Bq@HwAF{A?IDcAF{ABe@B[FiAF}@JmALcAJcALaAT{AlAiIDa@BURoBDk@Dq@HoAJgBHgAFiAHqALuAHaAPqALaALy@RcAReAJc@H]`@{ARy@^oAb@}A^uA`@sA\\qA`@yA^qAd@qB`@eBVsAZ_BZeB`@yBVyA\\oBX}ALu@\\mBRoAL{@HaAJeANwAFi@Fi@RiAZmB\\sBj@eDX}AX{AZyAVeAVaA\\kA`@mAb@oAZw@h@mAd@gAXm@Rg@N]La@Rq@F[FSFYFYFY?G@ADWFa@@I@IJ{@NwANoALkALcAN}@VwARkABKx@}EpB{LpAoH^{BnAaHz@aFP_Ap@_En@{C|@oDn@sBt@kBBEAIAGj@qAl@iAn@gAp@_At@aAx@w@v@y@z@m@~@i@`Aa@~Ai@dBU`AIdAGfA?`AB`AHdAP~@RbAX`AX~A^bBLjAIfAQt@OhAc@dAi@|@u@x@}@h@y@BCP]p@wA\\}@Tw@T}@LeARkBNgBNuCBoCBaGIcFQeF_@qE[cC]yAc@mA}EuJyDiHcI_NeJyOkCuEcIwNgGqKsDcGoBcDqG_L_MsTkAqBwAcCqC}EgB{CeDyFkIqNgEcGsBiCoCaD_D{CyCkCiD{BsD{BgDeB_MuEkNgEoDqAo@UoCeAo@Ym@[y@a@kAs@eAq@s@g@s@g@{@s@s@m@k@i@_@a@_@a@]c@a@g@c@q@Wa@S_@CES_@Sa@Q][s@CG[q@e@mAg@mAq@cBs@cBISISYs@wBmFM_@Si@M[a@gAm@qBWw@]oAk@oBU{@YeAQo@Ss@_@oAUu@Ws@a@mAc@oAQk@KYCG}A}DmAuCw@sAMSUYYc@Y_@W_@SU]e@]]YYYWYUa@_@o@e@o@_@_@Uc@U_@O_@O[M_@Ka@M]Gc@Ie@Ia@Gk@Ga@Eq@E{AKw@Ic@Ge@IUEe@Ke@Oi@Oa@Qc@Qs@]_Ag@q@a@[QMK?AYKYMQIo@YYMm@]g@YECeAi@i@Y_Bk@SIm@WmAm@{@_@yBeAuAo@UKWKMGa@Su@_@uCsAWKSKwAs@i@]}@o@[Uu@o@q@s@WYa@c@{@aAOQOSa@k@gAeBk@gA{@eBGMGOg@qAGM_@cA]iA_@qAYiAEQi@eCEUQiAUyAUmBMiAAOGw@IqAGsAE}@CeBCoB?k@?U?]BmBDaBFoANaCv@{KDg@De@FaAb@iGx@eLh@sH^oFB]D]vIkkAd@aGh@}GbBmUR_D\\kE\\uEPkCz@{Kx@{KpBcXV{CLeBRgCHaBHwB@qA@uA?_BC}@EmAEkAOmBSsBMgAc@gCy@_Ei@eBc@mAg@qAoAqC}@}AmAaBcAmA}@{@y@s@mAy@sAw@eAe@gBy@G`@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.391481,
+                        "lng" : 8.488939999999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.425811,
+                              "lng" : 8.686662000000002
+                           },
+                           "name" : "Effretikon, Bahnhof"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:49am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509011340
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.391481,
+                              "lng" : 8.488939999999999
+                           },
+                           "name" : "Zürich Altstetten"
+                        },
+                        "departure_time" : {
+                           "text" : "11:24am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509009840
+                        },
+                        "headsign" : "Wetzikon",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Schweizerische Bundesbahnen SBB",
+                                 "url" : "http://sbb.ch/"
+                              }
+                           ],
+                           "color" : "#283593",
+                           "short_name" : "S3",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-train.png",
+                              "name" : "Commuter train",
+                              "type" : "COMMUTER_TRAIN"
+                           }
+                        },
+                        "num_stops" : 6
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 47.4254078,
+                        "lng" : 8.6862327
+                     },
+                     "html_instructions" : "Walk to Effretikon, Bahnhof",
+                     "polyline" : {
+                        "points" : "izm`Hsr_t@Hn@@DCTbA^BU"
+                     },
+                     "start_location" : {
+                        "lat" : 47.425811,
+                        "lng" : 8.686662000000002
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "50 m",
+                              "value" : 50
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 41
+                           },
+                           "end_location" : {
+                              "lat" : 47.4254078,
+                              "lng" : 8.6862327
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eBahnhofstrasse\u003c/b\u003e toward \u003cb\u003eBahnhofstrasse\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "polyline" : {
+                              "points" : "izm`Hsr_t@Hn@@DCTbA^BU"
+                           },
+                           "start_location" : {
+                              "lat" : 47.425811,
+                              "lng" : 8.686662000000002
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2477
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 360
+                     },
+                     "end_location" : {
+                        "lat" : 47.4313938,
+                        "lng" : 8.6678262
+                     },
+                     "html_instructions" : "Bus towards Kemptthal, Bahnhof",
+                     "polyline" : {
+                        "points" : "ywm`H}o_t@DQWMGRCTi@UaBo@s@QWG[GOAK?K@_@H]PYJSFSDK@YDE?S@o@?q@GSEIC?OCECEEAI?CDCDADAF@D@F@FAHs@fCkAlEOj@Wt@IXUn@WfAETEZEXCv@An@?N@XC@C@ABCDAF?F@HBDHFDA@\\?L@d@@^?f@AP?VEp@CVMbAU~@]x@GLOZ]j@[f@m@x@gA`Ba@p@QXEF]l@a@t@Ud@Yr@Ul@Y`AnCzHnBrFj@bBPf@Vr@f@~APt@T`ADPBP@NFd@@b@@f@?b@Cd@Cd@Gf@It@u@dFsC~Qc@QsAm@R{ARoAPmARqAPgAD@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4254078,
+                        "lng" : 8.6862327
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.4313938,
+                              "lng" : 8.6678262
+                           },
+                           "name" : "Tagelswangen, Gerenhalde"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:59am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509011940
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.4254078,
+                              "lng" : 8.6862327
+                           },
+                           "name" : "Effretikon, Bahnhof"
+                        },
+                        "departure_time" : {
+                           "text" : "11:53am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509011580
+                        },
+                        "headsign" : "Kemptthal, Bahnhof",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Zürcher Verkehrsverbund",
+                                 "phone" : "011 41 848 988 988",
+                                 "url" : "http://www.zvv.ch/"
+                              }
+                           ],
+                           "color" : "#ffffff",
+                           "short_name" : "650",
+                           "text_color" : "#000000",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 4
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 369
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 256
+                     },
+                     "end_location" : {
+                        "lat" : 47.4317085,
+                        "lng" : 8.6637249
+                     },
+                     "html_instructions" : "Walk to Zürcherstrasse, 8317 Lindau, Switzerland",
+                     "polyline" : {
+                        "points" : "e}n`H}|{s@KD_@rCIb@s@lEj@Rf@Vd@T[nB[xBOvAGd@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4313938,
+                        "lng" : 8.6678262
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 155
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 107
+                           },
+                           "end_location" : {
+                              "lat" : 47.4319236,
+                              "lng" : 8.665854299999999
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eGrundacherstrasse\u003c/b\u003e toward \u003cb\u003eBuckstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "e}n`H}|{s@KD_@rCIb@s@lE"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4313938,
+                              "lng" : 8.6678262
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "72 m",
+                              "value" : 72
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 48
+                           },
+                           "end_location" : {
+                              "lat" : 47.4313148,
+                              "lng" : 8.665522899999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eGrundacherstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "o`o`Hqp{s@j@Rf@Vd@T"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4319236,
+                              "lng" : 8.665854299999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 142
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 101
+                           },
+                           "end_location" : {
+                              "lat" : 47.4317085,
+                              "lng" : 8.6637249
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZürcherstrasse\u003c/b\u003e/\u003cb\u003eRoute 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "u|n`Hon{s@[nB[xBOvAGd@"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4313148,
+                              "lng" : 8.665522899999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ywh`Hw`zr@OGSPE?GLCDIET_A?]p@cCZZvD`AjBf@|WbHvDdA?RSfCsAxKCd@B^FTX`@xAhBTa@f@uCFSPHx@b@CL\\PTLTNFHBPBL@?hChAJUo@ESKh@_D|@_F`@kCP{Ad@oCz@yFb@uDTeCX_Fn@iNRkCXgCvBiOb@cFf@iIVgDZsCZ{Bf@iCjAwEdCwI~@kDdAcEx@yDv@eEpBaLj@cD`@kCl@iGZsBx@aFdAcGt@uDn@gC~@yC~@gCnAuCjAuCj@{BP}@PmAx@oH\\aCj@cD`Gu]|D_Up@_En@{C|@oDn@sBx@qBCQj@qA|AqCfBaCpBqBzBwA`Aa@~Ai@fD_@dAGfA?`AB`AHdAP~@RdCr@~A^bBLjAIfAQt@OhAc@dAi@|@u@x@}@h@y@Ta@nAuCj@uB`@qD^}FFqKIcFQeF_@qE[cC]yAc@mA}EuJyDiHiTy^oMmUgGqKsDcGaKcQuVgc@mGuKkIqNgEcGsBiCoCaD_D{CyCkC}IwFgDeB_MuEkNgEoDqA_E{A}Au@eCuAyByAoB{A_BwA_AcA_AkA{@sA_AgBmAkCsDcJeDiIqAmDoCiJuAeFoBgGeA}CkDsIeAgBaB}Bq@{@w@w@s@m@qAeAoAu@cAe@{@]aAYaAQgAQ{E_@{AQ{@OkA[kAa@wAo@qBiAi@]YMuB_AaDeBi@Y_Bk@aAa@yIcEuI_EaCqAyAeAgBcBy@}@kAsAq@_AsBmDcAsBwAsD}@{C_@{Ao@{Cg@cDc@wDIgAQeDIcDCoEHoEVqEjAkPfDse@fKiuA~Dwi@dDyc@jDmd@RyEBgDC}CKyCc@aFq@oEy@_Ei@eBkA_DoAqC}@}AqCoDwBoBmAy@sAw@mD_BG`@Hn@AZbA^BUDQWMKh@kCeAkAYk@IW@_@H]Pm@R_ALcA@eAMIC?OGKOAGJCLBL@FAH_CtIgAjD]|AKt@EfB@h@GBEHANDNHFDA@j@@~BEhAQzAU~@]x@Wh@y@rAuBzCwA`Cw@zAo@`BY`AnCzHzCvIh@zAx@tCZrAD`@HhA@jAGjAQ|AiEdYwB_AlAkIPgAD@KD_@rC}@pFj@Rf@Vd@T[nBk@pEGd@"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 47.432392,
+               "lng" : 8.6868266
+            },
+            "southwest" : {
+               "lat" : 47.3656592,
+               "lng" : 8.488798899999999
+            }
+         },
+         "copyrights" : "Map data ©2017 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "12:33pm",
+                  "time_zone" : "Europe/Zurich",
+                  "value" : 1509014009
+               },
+               "departure_time" : {
+                  "text" : "11:46am",
+                  "time_zone" : "Europe/Zurich",
+                  "value" : 1509011179
+               },
+               "distance" : {
+                  "text" : "24.5 km",
+                  "value" : 24540
+               },
+               "duration" : {
+                  "text" : "47 mins",
+                  "value" : 2830
+               },
+               "end_address" : "Zürcherstrasse, 8317 Lindau, Switzerland",
+               "end_location" : {
+                  "lat" : 47.4317085,
+                  "lng" : 8.6637249
+               },
+               "start_address" : "Am Giessen, 8049 Zürich, Switzerland",
+               "start_location" : {
+                  "lat" : 47.3998083,
+                  "lng" : 8.4943635
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 47.4000036,
+                        "lng" : 8.494702900000002
+                     },
+                     "html_instructions" : "Walk to Winzerhalde",
+                     "polyline" : {
+                        "points" : "ywh`Hw`zr@C?CCCCC?C@EFEDC@C@AAABEHABA@A?GENq@DMB["
+                     },
+                     "start_location" : {
+                        "lat" : 47.3998083,
+                        "lng" : 8.4943635
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "43 m",
+                              "value" : 43
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 46
+                           },
+                           "end_location" : {
+                              "lat" : 47.4001349,
+                              "lng" : 8.4942426
+                           },
+                           "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eWinzerstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "ywh`Hw`zr@C?CCCCC?C@EFEDC@C@AAABEHABA@A?GE"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3998083,
+                              "lng" : 8.4943635
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "27 m",
+                              "value" : 27
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 18
+                           },
+                           "end_location" : {
+                              "lat" : 47.4000036,
+                              "lng" : 8.494702900000002
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWinzerstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "yyh`H_`zr@Nq@DMB["
+                           },
+                           "start_location" : {
+                              "lat" : 47.4001349,
+                              "lng" : 8.4942426
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1281
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 47.39242669999999,
+                        "lng" : 8.489690299999999
+                     },
+                     "html_instructions" : "Bus towards Zürich, Bahnhof Altstetten N",
+                     "polyline" : {
+                        "points" : "_yh`H{bzr@CAZgAT{@ZZvD`Ab@JfAZLBnW~GvDdA?RCJOzBa@lDq@jFCd@B^FTX`@fAvAPPTa@f@uCFSPHz@`@A@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4000036,
+                        "lng" : 8.494702900000002
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.39242669999999,
+                              "lng" : 8.489690299999999
+                           },
+                           "name" : "Bahnhof Altstetten N"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:49am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509011394
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.4000036,
+                              "lng" : 8.494702900000002
+                           },
+                           "name" : "Winzerhalde"
+                        },
+                        "departure_time" : {
+                           "text" : "11:47am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509011244
+                        },
+                        "headsign" : "Zürich, Bahnhof Altstetten N",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Zürcher Verkehrsverbund",
+                                 "phone" : "011 41 848 988 988",
+                                 "url" : "http://www.zvv.ch/"
+                              }
+                           ],
+                           "color" : "#d50000",
+                           "short_name" : "304",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 2
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 118
+                     },
+                     "end_location" : {
+                        "lat" : 47.391481,
+                        "lng" : 8.488939999999999
+                     },
+                     "html_instructions" : "Walk to Zürich Altstetten",
+                     "polyline" : {
+                        "points" : "uig`Hqcyr@CL\\PJDHFHDJHDD@B?BBL@N@A@?hChAFIBKo@E"
+                     },
+                     "start_location" : {
+                        "lat" : 47.39242669999999,
+                        "lng" : 8.489690299999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "64 m",
+                              "value" : 64
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 50
+                           },
+                           "end_location" : {
+                              "lat" : 47.3920103,
+                              "lng" : 8.489155499999999
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "uig`Hqcyr@CL\\PJDHFHDJHDD@B?BBL@N"
+                           },
+                           "start_location" : {
+                              "lat" : 47.39242669999999,
+                              "lng" : 8.489690299999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 95
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 68
+                           },
+                           "end_location" : {
+                              "lat" : 47.391481,
+                              "lng" : 8.488939999999999
+                           },
+                           "html_instructions" : "Take the pedestrian tunnel",
+                           "polyline" : {
+                              "points" : "agg`Hg`yr@@A@?hChAFIBKo@E"
+                           },
+                           "start_location" : {
+                              "lat" : 47.3920103,
+                              "lng" : 8.489155499999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "20.1 km",
+                        "value" : 20134
+                     },
+                     "duration" : {
+                        "text" : "25 mins",
+                        "value" : 1500
+                     },
+                     "end_location" : {
+                        "lat" : 47.425811,
+                        "lng" : 8.686662000000002
+                     },
+                     "html_instructions" : "Commuter train towards Wetzikon",
+                     "polyline" : {
+                        "points" : "wcg`H{~xr@SK@If@uC`@}BZaBPaANiAFk@Ho@Ja@XmBHa@Hg@PiATeBXuBH_AHaAJcADq@FaAFy@Bq@HwAF{A?IDcAF{ABe@B[FiAF}@JmALcAJcALaAT{AlAiIDa@BURoBDk@Dq@HoAJgBHgAFiAHqALuAHaAPqALaALy@RcAReAJc@H]`@{ARy@^oAb@}A^uA`@sA\\qA`@yA^qAd@qB`@eBVsAZ_BZeB`@yBVyA\\oBX}ALu@\\mBRoAL{@HaAJeANwAFi@Fi@RiAZmB\\sBj@eDX}AX{AZyAVeAVaA\\kA`@mAb@oAZw@h@mAd@gAXm@Rg@N]La@Rq@F[FSFYFYFY?G@ADWFa@@I@IJ{@NwANoALkALcAN}@VwARkABKx@}EpB{LpAoH^{BnAaHz@aFP_Ap@_En@{C|@oDn@sBt@kBBEAIAGj@qAl@iAn@gAp@_At@aAx@w@v@y@z@m@~@i@`Aa@~Ai@dBU`AIdAGfA?`AB`AHdAP~@RbAX`AX~A^bBLjAIfAQt@OhAc@dAi@|@u@x@}@h@y@BCP]p@wA\\}@Tw@T}@LeARkBNgBNuCBoCBaGIcFQeF_@qE[cC]yAc@mA}EuJyDiHcI_NeJyOkCuEcIwNgGqKsDcGoBcDqG_L_MsTkAqBwAcCqC}EgB{CeDyFkIqNgEcGsBiCoCaD_D{CyCkCiD{BsD{BgDeB_MuEkNgEoDqAo@UoCeAo@Ym@[y@a@kAs@eAq@s@g@s@g@{@s@s@m@k@i@_@a@_@a@]c@a@g@c@q@Wa@S_@CES_@Sa@Q][s@CG[q@e@mAg@mAq@cBs@cBISISYs@wBmFM_@Si@M[a@gAm@qBWw@]oAk@oBU{@YeAQo@Ss@_@oAUu@Ws@a@mAc@oAQk@KYCG}A}DmAuCw@sAMSUYYc@Y_@W_@SU]e@]]YYYWYUa@_@o@e@o@_@_@Uc@U_@O_@O[M_@Ka@M]Gc@Ie@Ia@Gk@Ga@Eq@E{AKw@Ic@Ge@IUEe@Ke@Oi@Oa@Qc@Qs@]_Ag@q@a@[QMK?AYKYMQIo@YYMm@]g@YECeAi@i@Y_Bk@SIm@WmAm@{@_@yBeAuAo@UKWKMGa@Su@_@uCsAWKSKwAs@i@]}@o@[Uu@o@q@s@WYa@c@{@aAOQOSa@k@gAeBk@gA{@eBGMGOg@qAGM_@cA]iA_@qAYiAEQi@eCEUQiAUyAUmBMiAAOGw@IqAGsAE}@CeBCoB?k@?U?]BmBDaBFoANaCv@{KDg@De@FaAb@iGx@eLh@sH^oFB]D]vIkkAd@aGh@}GbBmUR_D\\kE\\uEPkCz@{Kx@{KpBcXV{CLeBRgCHaBHwB@qA@uA?_BC}@EmAEkAOmBSsBMgAc@gCy@_Ei@eBc@mAg@qAoAqC}@}AmAaBcAmA}@{@y@s@mAy@sAw@eAe@gBy@G`@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.391481,
+                        "lng" : 8.488939999999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.425811,
+                              "lng" : 8.686662000000002
+                           },
+                           "name" : "Effretikon, Bahnhof"
+                        },
+                        "arrival_time" : {
+                           "text" : "12:19pm",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509013140
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.391481,
+                              "lng" : 8.488939999999999
+                           },
+                           "name" : "Zürich Altstetten"
+                        },
+                        "departure_time" : {
+                           "text" : "11:54am",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509011640
+                        },
+                        "headsign" : "Wetzikon",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Schweizerische Bundesbahnen SBB",
+                                 "url" : "http://sbb.ch/"
+                              }
+                           ],
+                           "color" : "#283593",
+                           "short_name" : "S3",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-train.png",
+                              "name" : "Commuter train",
+                              "type" : "COMMUTER_TRAIN"
+                           }
+                        },
+                        "num_stops" : 6
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 47.4254078,
+                        "lng" : 8.6862327
+                     },
+                     "html_instructions" : "Walk to Effretikon, Bahnhof",
+                     "polyline" : {
+                        "points" : "izm`Hsr_t@Hn@@DCTbA^BU"
+                     },
+                     "start_location" : {
+                        "lat" : 47.425811,
+                        "lng" : 8.686662000000002
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "50 m",
+                              "value" : 50
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 41
+                           },
+                           "end_location" : {
+                              "lat" : 47.4254078,
+                              "lng" : 8.6862327
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eBahnhofstrasse\u003c/b\u003e toward \u003cb\u003eBahnhofstrasse\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "polyline" : {
+                              "points" : "izm`Hsr_t@Hn@@DCTbA^BU"
+                           },
+                           "start_location" : {
+                              "lat" : 47.425811,
+                              "lng" : 8.686662000000002
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2477
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 360
+                     },
+                     "end_location" : {
+                        "lat" : 47.4313938,
+                        "lng" : 8.6678262
+                     },
+                     "html_instructions" : "Bus towards Kemptthal, Bahnhof",
+                     "polyline" : {
+                        "points" : "ywm`H}o_t@DQWMGRCTi@UaBo@s@QWG[GOAK?K@_@H]PYJSFSDK@YDE?S@o@?q@GSEIC?OCECEEAI?CDCDADAF@D@F@FAHs@fCkAlEOj@Wt@IXUn@WfAETEZEXCv@An@?N@XC@C@ABCDAF?F@HBDHFDA@\\?L@d@@^?f@AP?VEp@CVMbAU~@]x@GLOZ]j@[f@m@x@gA`Ba@p@QXEF]l@a@t@Ud@Yr@Ul@Y`AnCzHnBrFj@bBPf@Vr@f@~APt@T`ADPBP@NFd@@b@@f@?b@Cd@Cd@Gf@It@u@dFsC~Qc@QsAm@R{ARoAPmARqAPgAD@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4254078,
+                        "lng" : 8.6862327
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 47.4313938,
+                              "lng" : 8.6678262
+                           },
+                           "name" : "Tagelswangen, Gerenhalde"
+                        },
+                        "arrival_time" : {
+                           "text" : "12:29pm",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509013740
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 47.4254078,
+                              "lng" : 8.6862327
+                           },
+                           "name" : "Effretikon, Bahnhof"
+                        },
+                        "departure_time" : {
+                           "text" : "12:23pm",
+                           "time_zone" : "Europe/Zurich",
+                           "value" : 1509013380
+                        },
+                        "headsign" : "Kemptthal, Bahnhof",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Zürcher Verkehrsverbund",
+                                 "phone" : "011 41 848 988 988",
+                                 "url" : "http://www.zvv.ch/"
+                              }
+                           ],
+                           "color" : "#ffffff",
+                           "short_name" : "650",
+                           "text_color" : "#000000",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 4
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 369
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 256
+                     },
+                     "end_location" : {
+                        "lat" : 47.4317085,
+                        "lng" : 8.6637249
+                     },
+                     "html_instructions" : "Walk to Zürcherstrasse, 8317 Lindau, Switzerland",
+                     "polyline" : {
+                        "points" : "e}n`H}|{s@KD_@rCIb@s@lEj@Rf@Vd@T[nB[xBOvAGd@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.4313938,
+                        "lng" : 8.6678262
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 155
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 107
+                           },
+                           "end_location" : {
+                              "lat" : 47.4319236,
+                              "lng" : 8.665854299999999
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eGrundacherstrasse\u003c/b\u003e toward \u003cb\u003eBuckstrasse\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "e}n`H}|{s@KD_@rCIb@s@lE"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4313938,
+                              "lng" : 8.6678262
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "72 m",
+                              "value" : 72
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 48
+                           },
+                           "end_location" : {
+                              "lat" : 47.4313148,
+                              "lng" : 8.665522899999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eGrundacherstrasse\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "o`o`Hqp{s@j@Rf@Vd@T"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4319236,
+                              "lng" : 8.665854299999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 142
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 101
+                           },
+                           "end_location" : {
+                              "lat" : 47.4317085,
+                              "lng" : 8.6637249
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZürcherstrasse\u003c/b\u003e/\u003cb\u003eRoute 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "u|n`Hon{s@[nB[xBOvAGd@"
+                           },
+                           "start_location" : {
+                              "lat" : 47.4313148,
+                              "lng" : 8.665522899999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ywh`Hw`zr@OGSPE?GLCDIET_A?]p@cCZZvD`AjBf@|WbHvDdA?RSfCsAxKCd@B^FTX`@xAhBTa@f@uCFSPHx@b@CL\\PTLTNFHBPBL@?hChAJUo@ESKh@_D|@_F`@kCP{Ad@oCz@yFb@uDTeCX_Fn@iNRkCXgCvBiOb@cFf@iIVgDZsCZ{Bf@iCjAwEdCwI~@kDdAcEx@yDv@eEpBaLj@cD`@kCl@iGZsBx@aFdAcGt@uDn@gC~@yC~@gCnAuCjAuCj@{BP}@PmAx@oH\\aCj@cD`Gu]|D_Up@_En@{C|@oDn@sBx@qBCQj@qA|AqCfBaCpBqBzBwA`Aa@~Ai@fD_@dAGfA?`AB`AHdAP~@RdCr@~A^bBLjAIfAQt@OhAc@dAi@|@u@x@}@h@y@Ta@nAuCj@uB`@qD^}FFqKIcFQeF_@qE[cC]yAc@mA}EuJyDiHiTy^oMmUgGqKsDcGaKcQuVgc@mGuKkIqNgEcGsBiCoCaD_D{CyCkC}IwFgDeB_MuEkNgEoDqA_E{A}Au@eCuAyByAoB{A_BwA_AcA_AkA{@sA_AgBmAkCsDcJeDiIqAmDoCiJuAeFoBgGeA}CkDsIeAgBaB}Bq@{@w@w@s@m@qAeAoAu@cAe@{@]aAYaAQgAQ{E_@{AQ{@OkA[kAa@wAo@qBiAi@]YMuB_AaDeBi@Y_Bk@aAa@yIcEuI_EaCqAyAeAgBcBy@}@kAsAq@_AsBmDcAsBwAsD}@{C_@{Ao@{Cg@cDc@wDIgAQeDIcDCoEHoEVqEjAkPfDse@fKiuA~Dwi@dDyc@jDmd@RyEBgDC}CKyCc@aFq@oEy@_Ei@eBkA_DoAqC}@}AqCoDwBoBmAy@sAw@mD_BG`@Hn@AZbA^BUDQWMKh@kCeAkAYk@IW@_@H]Pm@R_ALcA@eAMIC?OGKOAGJCLBL@FAH_CtIgAjD]|AKt@EfB@h@GBEHANDNHFDA@j@@~BEhAQzAU~@]x@Wh@y@rAuBzCwA`Cw@zAo@`BY`AnCzHzCvIh@zAx@tCZrAD`@HhA@jAGjAQ|AiEdYwB_AlAkIPgAD@KD_@rC}@pFj@Rf@Vd@T[nBk@pEGd@"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
