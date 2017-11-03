@@ -66,6 +66,9 @@ def GetRoutes(locations, departure_time, limit):
         # print LatLngsToGoogleUrl(source, destination, departure_time)
         urls.append(LatLngsToGoogleUrl(source, destination, departure_time))
     
+    # Check if limit is bigger than our number of urls
+    limit = limit if limit < len(urls) else len(urls)
+
     for i in range(0, limit):
         try:
             # Get the API response.
